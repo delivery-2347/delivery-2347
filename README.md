@@ -6,7 +6,7 @@
     </a>
 </div>
 
-## Привет, я Cucumber 👋
+## Hi, Im Cucumber 👋
 
 I'm a **LuaU** developer who primarily creates Roblox scripts
 
